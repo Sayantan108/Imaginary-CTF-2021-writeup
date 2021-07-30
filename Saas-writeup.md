@@ -42,6 +42,6 @@ sed 's/a/a/g' *.txt # stuff.txt
 ```
 which gives us the contents of flag.txt
 We see that flag is printed at the beginning:
-
+```
 ictf{:roocu:roocu:roocu:roocu:roocu:roocursion:rsion:rsion:rsion:rsion:rsion:_473fc2d1}
-
+```
